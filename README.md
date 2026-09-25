@@ -33,7 +33,7 @@ That makes a thin routing layer preferable to maintaining a BMAD fork.
 From this repository:
 
 ```bash
-./install.sh /absolute/path/to/your-bmad-project
+bash install.sh /absolute/path/to/your-bmad-project
 ```
 
 Or copy manually:
