@@ -1,0 +1,5 @@
+[workflow]
+
+persistent_facts = [
+  "仅当宿主是 Codex：读取并遵守 {project-root}/.codex/bmad-build-routing.md，按当前 bmad-build 阶段和 review layer 选择本项目自定义子智能体。其他宿主忽略此条。",
+]
